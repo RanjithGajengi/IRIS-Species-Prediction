@@ -4,3 +4,7 @@
 
 • If you want to view the deployed model, click on the following link:
 Deployed at: https://predicting-iris-species.herokuapp.com/
+
+• A glimpse of the web app:
+
+![GIF](readme_resources/iris.gif)
